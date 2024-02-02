@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=000000&random=false&width=435&lines=Hi%2C+im+ThePython555!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Dumo178
-- 👀 I’m interested in python and c#
+- 👀 I’m interested in python and c++
 - 🌱 I’m currently learning some more Javascript (I have never hated a programming language more lol)
 - 💔 I’m not looking to collaborate on anything
 - 📫 How to reach me ... [here](https://www.ba4x.pro)
