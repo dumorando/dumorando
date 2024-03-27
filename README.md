@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=000000&random=false&width=435&lines=Hi%2C+im+ThePython555!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Dumo178
 - 👀 I’m interested in python and c++
 - 💔 I’m not looking to collaborate on anything
@@ -7,8 +6,8 @@
 - 📱 I have a Pixel 6 Pro<br /><br />
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,vercel,unity,dotnet,cs,babel,cpp,lua,php,py,robloxstudio)](https://skillicons.dev)<br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThePython555&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br />
-[![thepython555's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepython555)](https://github.com/anuraghazra/github-readme-stats)
-[![thepython555/zenscript - GitHub](https://gh-card.dev/repos/thepython555/zenscript.svg)](https://github.com/thepython555/zenscript)
+[![thepython555's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumorando)](https://github.com/anuraghazra/github-readme-stats)
+[![thepython555/zenscript - GitHub](https://gh-card.dev/repos/dumorando/zenscript.svg)](https://github.com/dumorando/zenscript)
 
 
 <!---
