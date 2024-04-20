@@ -1,6 +1,5 @@
 # https://www.dumosgit.xyz/dumorando
 [![trophy](https://github-profile-trophy.vercel.app/?username=dumorando&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br />
-[![thepython555's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumorando)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
