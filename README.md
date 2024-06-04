@@ -15,6 +15,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,html,css,react,vite,svelte,babel,git,github,php,replit,py,yarn,windows,linux,vscode,ubuntu,postman,bash)](https://skillicons.dev)
 
+<p align="left">I'm really good at React and Svelte. I prefer libraries like zustand and react-query for React, and I use svelte for simple applications that I just need components in. I understand Svelte Stores and Svelte Runes and many other things.</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumorando&show_icons=true&locale=en&layout=compact" alt="dumorando" /></p>
 
 
