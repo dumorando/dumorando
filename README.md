@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm dumorando!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" /> </p>
 
-- 🤝 I’m looking for a job :D
-
 - 👨‍💻 I've made a ton of projects at https://dumosgit.xyz and on GitHub
 
 - 📝 I make tutorials at https://dev.to/dumorando
