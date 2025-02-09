@@ -1,9 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 2/5/25
+LAST UPDATED: 2/9/25
 
-As of late 2024 the content on my website does not reflect me anymore
 I do not use any block-coding related website anymore; do not contact me by any means on any of those websites
 
 Language Knowledge: JS (89%)/TS (64%), HTML (74%), CSS (30%), C# (17%), Python (3%), Go (2%), Ruby (2%), Lua (64%)
