@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 2/9/25
+LAST UPDATED: 3/17/25
 
 I do not use any block-coding related website anymore; do not contact me by any means on any of those websites
 
@@ -13,7 +13,7 @@ Percentages are based on how much I care about them (Don't care at all 0% ------
 
 Websites/projects I've started:
 https://dumorando.com (Time spent: 7 hours) (Project code on legacy Git website, moving it to GitHub soon)
-https://uwuify.dumorando.com (Time spent: 15 minutes) (Outdated) (View code on GitHub Gist at https://s.yup.lol/a787b56a)
+https://uwu.dumorando.com (Time spent: 15 minutes) (Outdated) (View code on GitHub Gist at https://s.yup.lol/a787b56a)
 https://dumosgamemaker.vercel.app (Time spent: 3 days) (Outdated) (View project on GitHub at dumorando/DumosGameMaker)
 https://api.bark.dumorando.com (Time spent: 3 hours) (Outdated) (API of bark.dumorando.com WHICH IS NOT OWNED OR OPERATED BY ME) (View project on GitHub at dumorando/bapiv2)
 https://semisocial.chat (Time spent: N/A) (Outdated) (Development paused until Q3 '25)
@@ -21,6 +21,7 @@ https://s.yup.lol (Time spent: 2 hours) (View project on GitHub at dumorando/dum
 https://pencil-six.vercel.app (Time spent: 7 hours) (Outdated) (View code on GitHub at dumorando/pencil)
 https://dumo.is-a.dev/shittyo1 (Time spent: 1 hour) (View code on GitHub at dumorando/shittyo1)
 https://espressoblocks.com (Time spent: 9 days) (View code on GitHub at organization EspressoBlocks)
+https://tts.fromdumo.com (Time spent: 15 minutes) (View code on GitHub at dumorando/ttsapp)
 
 All stats like usage and temperature are based on what's happening at 1738802564 (UNIX TIME)
 
