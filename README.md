@@ -1,15 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 5/4/25
+LAST UPDATED: 6/3/25
 
-I do not use any block-coding related website anymore; do not contact me by any means on any of those websites
+***I do not use any block-coding related website anymore; do not contact me by any means on any of those websites***
 
 Language Knowledge: JS (89%)/TS (64%), HTML (74%), CSS (30%), C# (17%), Python (3%), Go (2%), Ruby (2%), Lua (64%)
-Percentages are based on how much I care about them* (Don't care at all 0% ---------> 100% My primary language/I care a lot)
-
-Service Knowledge: GitHub (82%), Vercel (0%), Visual studio code (64%)
-Percentages are based on how much I care about them (Don't care at all 0% ---------> 100% I care about this service) 
+These are just arbitrary numbers I provided based on the knowledge I have of them.. this kinda doesn't mean anything
 
 Websites/projects I've started:
 https://dumorando.com (Time spent: 7 hours) (Project code on legacy Git website, moving it to GitHub soon)
@@ -67,6 +64,4 @@ Motherboard: ASUS PRIME B660M-A AC D4
 
 OS: Windows 11 Home
 Uptime: 1:21:32:48
-
-*And also how much I know about them but I didn't include that there because it sounds vague
 ```
