@@ -1,12 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 7/10/25
+LAST UPDATED: 8/5/2025
 
 ***I do not use any block-coding related website anymore; do not contact me by any means on any of those websites***
-
-Language Knowledge: JS (89%)/TS (64%), HTML (74%), CSS (30%), C# (17%), Python (3%), Go (2%), Ruby (2%), Lua (64%)
-These are just arbitrary numbers I provided based on the knowledge I have of them.. this kinda doesn't mean anything
 
 Websites/projects I've started:
 https://dumorando.com (Time spent: 7 hours) (Project code on legacy Git website, moving it to GitHub soon)
@@ -18,7 +15,7 @@ https://s.yup.lol (Time spent: 2 hours) (View project on GitHub at dumorando/dum
 https://pencil-six.vercel.app (Time spent: 7 hours) (Outdated) (View code on GitHub at dumorando/pencil)
 https://dumo.is-a.dev/shittyo1 (Time spent: 1 hour) (View code on GitHub at dumorando/shittyo1)
 https://espressoblocks.com (Time spent: 9 days) (View code on GitHub at organization EspressoBlocks)
-https://tts.fromdumo.com (Time spent: 15 minutes) (View code on GitHub at dumorando/ttsapp)
+https://tts.fromdumo.com (Time spent: 2 days) (View code on GitHub at dumorando/DumoTTS-V2)
 
 All stats like usage and temperature are based on what's happening at 1738802564 (UNIX TIME)
 
