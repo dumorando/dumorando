@@ -16,6 +16,7 @@ https://pencil-six.vercel.app (Time spent: 7 hours) (Outdated) (View code on Git
 https://dumo.is-a.dev/shittyo1 (Time spent: 1 hour) (View code on GitHub at dumorando/shittyo1)
 https://espressoblocks.com (Time spent: 9 days) (View code on GitHub at organization EspressoBlocks)
 https://tts.fromdumo.com (Time spent: 2 days) (View code on GitHub at dumorando/DumoTTS-V2)
+https://htmlbox.dumo.network (Time spent: ~10 minutes) (View code on GitHub at dumorando/htmlbox)
 drok#6967 (yes thats the real discriminator) (Time spent: 4 hours) (View code on GitHub at dumorando/drok)
 
 All stats like usage and temperature are based on what's happening at 1738802564 (UNIX TIME)
