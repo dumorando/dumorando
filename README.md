@@ -44,25 +44,4 @@ GPU Manufacturer: GIGABYTE Technology
 Motherboard: ASUS PRIME B660M-A AC D4
 OS: Windows 11 Home
 Uptime: 1:21:32:48
-
-My laptop (Thinkpad E15 gen 3 amd):
-CPU: AMD Ryzen 5 5500u with radeon graphics
-CPU Cores: 6
-CPU Logical Processors: 12
-CPU Usage: 3%
-CPU Temperature: 36C
-RAM: 8GB of Lenovo RAM??
-RAM Type: SODIMM
-RAM Usage: 85%
-SSD: Samsung something something
-SSD Capacity: 256GB
-SSD Temperature: I don't know
-External SSD: SanDisk Extreme Pro with USB 4
-External SSD Capacity: 1TB
-External SSD Temperature: 29C
-GPU: AMD Radeon graphics
-GPU VRAM: 1GB
-GPU Manufacturer: Advanced micro devices corporation
-Motherboard: Idk
-OS: Windows 11 Home
 ```
