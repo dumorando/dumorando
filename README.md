@@ -1,12 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 9/10/2025
+LAST UPDATED: 9/18/2025
 
 ***I do not use any block-coding related website anymore; do not contact me by any means on any of those websites***
 
 Websites/projects I've started:
-https://dumorando.com (Time spent: 7 hours) (Project code on legacy Git website, moving it to GitHub soon)
+https://dumorando.com (Time spent: 7 hours) (View project on GitHub at dumorando/website-v10)
 https://uwu.dumorando.com (Time spent: 15 minutes) (Outdated) (View code on GitHub Gist at https://s.yup.lol/a787b56a)
 https://dumosgamemaker.vercel.app (Time spent: 3 days) (Outdated) (View project on GitHub at dumorando/DumosGameMaker)
 https://api.bark.dumorando.com (Time spent: 3 hours) (Outdated) (API of bark.dumorando.com WHICH IS NOT OWNED OR OPERATED BY ME) (View project on GitHub at dumorando/bapiv2)
