@@ -19,6 +19,7 @@ https://tts.fromdumo.com (Time spent: 2 days) (View code on GitHub at dumorando/
 https://htmlbox.dumo.network (Time spent: ~10 minutes) (View code on GitHub at dumorando/htmlbox)
 https://timestamp.dumo.network (Time spent: 15 minutes) (View code on GitHub at dumorando/timestamp)
 https://base64.dumo.network (Time spent: 15 minutes) (View code on GitHub at dumorando/base64)
+https://whois.dumo.network (Time spent: 30 minutes) (View code on GitHub at dumorando/dumo-whois)
 drok#6967 (yes thats the real discriminator) (Time spent: 4 hours) (View code on GitHub at dumorando/drok)
 
 All stats like usage and temperature are based on what's happening at 1738802564 (UNIX TIME)
