@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 9/29/2025
+LAST UPDATED: 10/1/2025
 
 ***I do not use any block-coding related website anymore; do not contact me by any means on any of those websites***
 
@@ -21,7 +21,7 @@ https://timestamp.dumo.network (Time spent: 15 minutes) (View code on GitHub at 
 https://base64.dumo.network (Time spent: 15 minutes) (View code on GitHub at dumorando/base64)
 drok#6967 (yes thats the real discriminator) (Time spent: 4 hours) (View code on GitHub at dumorando/drok)
 
-All stats like usage and temperature are based on what's happening at 1738802564 (UNIX TIME)
+All stats like usage and temperature are based on what's happening at 1759349172152 (UNIX TIME)
 
 My PC:
 CPU: Intel Core i9-14900KF
@@ -42,6 +42,7 @@ GPU: NVIDIA RTX 2080 Ti
 GPU VRAM: 11GB
 GPU Manufacturer: GIGABYTE Technology 
 Motherboard: ASUS PRIME B660M-A AC D4
-OS: Windows 11 Home
+OS: Ubuntu 24.04.3 LTS (Noble Numbat)
+Kernel Version: 6.14.0-29-generic
 Uptime: 1:21:32:48
 ```
