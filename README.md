@@ -35,14 +35,18 @@ RAM Usage: 23%
 SSD: WD Blue SN570 500GB : 500.1 GB
 SSD Capacity: 500GB
 SSD Temperature: 28C
+SSD 2: SP Silicon Power SSD 3D NAND 1TB
+SSD 2 Capacity: 1TB
+SSD 2 Temperature: 40C
 External SSD: SanDisk Extreme Pro with USB 4
 External SSD Capacity: 1TB
 External SSD Temperature: 29C
 GPU: NVIDIA RTX 2080 Ti
 GPU VRAM: 11GB
-GPU Manufacturer: GIGABYTE Technology 
+GPU Manufacturer: GIGABYTE Technology
+WiFi card: Aorus GC-WBAX210
 Motherboard: ASUS PRIME B660M-A AC D4
 OS: Ubuntu 24.04.3 LTS (Noble Numbat)
 Kernel Version: 6.14.0-29-generic
-Uptime: 1:21:32:48
+Uptime: 43 min
 ```
