@@ -1,15 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 10/12/2025
+LAST UPDATED: 10/29/2025
 
 ***I do not use any block-coding related website anymore; do not contact me by any means on any of those websites***
-
-## HELP MAKE MOONSHOT HAPPEN! ##
-Meet new people, go to Universal Studios,
-have the opportunity to win a Framework 12.
-
-moonshot.hack.club/1063
 
 Websites/projects I've started:
 https://dumorando.com (Time spent: 7 hours) (View project on GitHub at dumorando/website-v10)
