@@ -47,7 +47,6 @@ GPU VRAM: 11GB
 GPU Manufacturer: GIGABYTE Technology
 WiFi card: Aorus GC-WBAX210
 Motherboard: ASUS PRIME B660M-A AC D4
-OS: Ubuntu 24.04.3 LTS (Noble Numbat)
-Kernel Version: 6.14.0-29-generic
-Uptime: 43 min
+OS: Windows 11 Version 25H2 (OS Build 26200.6899)
+Uptime: 0:00:39:07
 ```
