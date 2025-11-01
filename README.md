@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dumorando&label=Profile%20views&color=0e75b6&style=flat" alt="dumorando" />
 
 ```
-LAST UPDATED: 10/31/2025 (happy halloween! 🎃)
+LAST UPDATED: 11/1/2025
 
 ***I do not use any block-coding related website anymore; do not contact me by any means on any of those websites***
 
@@ -20,6 +20,7 @@ https://htmlbox.dumo.network (Time spent: ~10 minutes) (View code on GitHub at d
 https://timestamp.dumo.network (Time spent: 15 minutes) (View code on GitHub at dumorando/timestamp)
 https://base64.dumo.network (Time spent: 15 minutes) (View code on GitHub at dumorando/base64)
 https://jsbox.dumo.network (Time spent: 1 hour) (View code on GitHub at dumorando/jsbox)
+https://dumoinference.com (Time spent: 3 hours) (View code on GitHub at dumorando/dumoinference)
 drok#6967 (yes thats the real discriminator) (Time spent: 4 hours) (View code on GitHub at dumorando/drok)
 
 All stats like usage and temperature are based on what's happening at 1759349172152 (UNIX TIME)
